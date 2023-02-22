@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkvelonTest", "AkvelonTest\AkvelonTest.csproj", "{BE8BB28C-D11D-4B89-87C0-D357CCC99A4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{794B4067-06B9-493F-A6B7-8ED38F9AA84D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkvelonTest.Data", "AkvelonTest.Data\AkvelonTest.Data.csproj", "{64EBF8EA-BFEB-4994-872D-81BE0A871753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkvelonTest.ImageTransformer", "AkvelonTest.ImageTransformer\AkvelonTest.ImageTransformer.csproj", "{5DF2CABA-5E78-4737-9D5E-49BDACDABB87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8BB28C-D11D-4B89-87C0-D357CCC99A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8BB28C-D11D-4B89-87C0-D357CCC99A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8BB28C-D11D-4B89-87C0-D357CCC99A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8BB28C-D11D-4B89-87C0-D357CCC99A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EBF8EA-BFEB-4994-872D-81BE0A871753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EBF8EA-BFEB-4994-872D-81BE0A871753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EBF8EA-BFEB-4994-872D-81BE0A871753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EBF8EA-BFEB-4994-872D-81BE0A871753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF2CABA-5E78-4737-9D5E-49BDACDABB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF2CABA-5E78-4737-9D5E-49BDACDABB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF2CABA-5E78-4737-9D5E-49BDACDABB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF2CABA-5E78-4737-9D5E-49BDACDABB87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A85314C-5055-4D55-A2A9-15CCDFBD5491}
+	EndGlobalSection
+EndGlobal
